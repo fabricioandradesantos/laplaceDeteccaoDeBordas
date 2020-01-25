@@ -3,6 +3,9 @@
 
 Operador laplaciano é um operador frequentemente usado na detecção de bordas. Comparado com outros detectores de borda como o operador Sobel, o operador Laplaciano pode produzir melhores resultados na localização de bordas. Infelizmente, o operador Laplaciano é muito sensível ao ruído.
 
+### [Sobel Operator](https://github.com/fabriicioa/sobelDeteccaoDeBordas)
+### [Canny edge detector](https://github.com/fabriicioa/cannyDeteccaoDeBordas)
+
 ## Implementação baseada no [OpenCV - Open Source Computer Vision](https://docs.opencv.org/3.4/d5/db5/tutorial_laplace_operator.html)
 
 ## Imagens do app
